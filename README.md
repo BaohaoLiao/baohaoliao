@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 
-![Baohao's github stats](https://github-readme-stats.vercel.app/api?username=baohaoliao&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Baohao's github stats](https://github-readme-stats.vercel.app/api?username=baohaoliao&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
